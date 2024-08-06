@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Kiran Aher</h1>
-<h3 align="center"><b>Executive Frontend Developer at Decimal Point Analytics in Nashik</b></h3>
+<h3 align="center"><b>Executive Frontend Developer at <a href="https://www.decimalpointanalytics.com/" target="blanck"> Decimal Point Analytics </a> in Nashik</b></h3>
 
  
 </p>
