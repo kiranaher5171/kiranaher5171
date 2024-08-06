@@ -3,6 +3,8 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kiran Aher</h1>
+<h3 align="center"><b>Executive Frontend Developer at Decimal Point Analytics in Nashik</b></h3>
+
 <!-- <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -18,7 +20,7 @@
 
 <p align="center">
   <em>
-   I am Kiran Aher, an Executive Frontend Developer at Decimal Point Analytics in Nashik. I specialize in creating responsive web interfaces using HTML, CSS, Bootstrap, React JS, and Material-UI. In my role, I focus on developing interactive applications and managing code reviews and PR merging. Passionate about self-improvement, I am also a competitive programming enthusiast. I'm eager to leverage my skills and knowledge to excel in frontend development. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    an . I specialize in creating responsive web interfaces using HTML, CSS, Bootstrap, React JS, and Material-UI. In my role, I focus on developing interactive applications and managing code reviews and PR merging. Passionate about self-improvement, I am also a competitive programming enthusiast. I'm eager to leverage my skills and knowledge to excel in frontend development. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
